@@ -1,3 +1,4 @@
+-- Auto tile in Love2d, I personally call this Smart tiles. Enjoy, Softizo. --
 
 local floorImage = love.graphics.newImage("Floor.png")		 -- Pure grass tile	
 local autotileImage = love.graphics.newImage("Autotile.png") -- Autotile image
