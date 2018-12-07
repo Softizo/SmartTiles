@@ -2,4 +2,4 @@
 Auto tiling (Smart tiles) in love2d
 
 # Example
-![Alt Text](https://i.imgur.com/z8BCd8o.gifv)
+![Alt Text](http://tinyurl.com/y8r7wxuj)
